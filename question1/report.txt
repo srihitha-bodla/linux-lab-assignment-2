@@ -1,3 +1,0 @@
-Files Processed: 3
-Duplicates Found: 1
-Files Backed Up (Unique): 2
